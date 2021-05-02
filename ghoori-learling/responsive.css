@@ -1,0 +1,113 @@
+@media (max-width: 450px){
+    .header-section{
+        max-width: 380px;
+    }
+    .nav-item{
+        display: none;
+    }
+    .hdr-phn{
+        display: none;
+    }
+    .hdr-search{
+        display: none;
+    }
+    .log-sing{
+        display: none  !important;
+    }
+    .main-logo img {
+        width: 150px;
+        margin-top: 10px;
+        margin-left: 25px;
+    }
+    .banner-section {
+        height: 50vh;
+        min-height: 0;
+    }
+    .banner-text h1 {
+        font-size: 24px;
+    }
+    .banner-text {
+        top: 23%;
+        left: 4%;
+    }
+    .banner-text h6 {
+        margin-bottom: 60px;
+        line-height: 30px;
+        padding-right: 25px;
+        font-size: 17px;
+    }
+    .banner-text a {
+        padding: 12px 15px;
+        font-size: 15px;
+    }
+    .course-title-section .container {
+        max-width: 340px;
+    }
+    .title-icon i {
+        font-size: 20px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+    .title-details h4 {
+        font-size: 13px;
+        margin-bottom: 5px;
+    }
+    .title-details {
+        margin-bottom: 25px;
+    }
+    .offer-item{
+        margin-bottom: 60px;
+    }
+    .catagory-section{
+        padding-top: 0;
+    }
+    .offer-item-1 {
+        margin-bottom: 35px;
+    }
+    .ct-text-1 p {
+        font-size: 15px;
+    }
+    .blog-details p {
+        font-size: 13px;
+    }
+    .blog-details p span {
+        font-size: 14px;
+    }
+    .o-icon img {
+        width: 35px;
+        height: 35px;
+    }
+    .mail-item h4 {
+        font-size: 19px;
+    }
+    .mail-item P {
+        font-size: 12px;
+    }
+    .email-box {
+        padding: 14px 10px;
+        font-size: 15px;
+    }
+    .email-btn {
+        top: 5px;
+        right: 10px;
+        padding: 10px 10px;
+        font-size: 14px;
+    }
+    .footer-item p {
+        margin-bottom: 5px;
+    }
+    .footer-item ul li a {
+        font-size: 13px;
+    }
+    .footer-item {
+        margin-top: 10px;
+    }
+    .crs-hdr p {
+        padding: 35px 0 20px 10px;
+    }
+    .top-btn a i {
+        padding: 10px 10px;
+        font-size: 15px;
+    }
+}
